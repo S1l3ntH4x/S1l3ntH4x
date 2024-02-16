@@ -1,4 +1,3 @@
-![logo]
 <h1 align="center">Hello 👋, This is Aditya</h1>
 <h3 align="center">Cyber Security Enthusiast 🔒| Information Security Researcher 🤓💻</h3>
 
