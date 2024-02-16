@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]
 <h1 align="center">Hello 👋, This is Aditya</h1>
 <h3 align="center">Cyber Security Enthusiast 🔒| Information Security Researcher 🤓💻</h3>
 
